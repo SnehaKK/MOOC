@@ -16,11 +16,11 @@ Even though this problem looks straightforward, the solution is non-trivial when
 Installations to be done
 ------------------------
 The following are the project dependencies that need to be installed.
-	1. Python2.7
-	2. Google Protobuf
-	3. RabbitMQ
-	4. MongoDB
-	5. Erlang - Set ERLANG_HOME
+1. Python2.7
+2. Google Protobuf
+3. RabbitMQ
+4. MongoDB
+5. Erlang - Set ERLANG_HOME
 
 Run Test cases:
 -----------------
